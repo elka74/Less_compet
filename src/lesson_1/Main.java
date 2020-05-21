@@ -1,3 +1,9 @@
+package lesson_1;
+
+import lesson_1.Cat;
+import lesson_1.Competitor;
+import lesson_1.Human;
+
 public class Main {
         public static void main(String[] args) {
             Competitor[] competitors = {

@@ -1,3 +1,7 @@
+package lesson_1;
+
+import lesson_1.Competitor;
+
 public class Human implements Competitor {
     private String name;
     private int maxRun;

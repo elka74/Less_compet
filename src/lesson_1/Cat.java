@@ -1,3 +1,5 @@
+package lesson_1;
+
 public class Cat implements Competitor {
     private String type;
     private String name;

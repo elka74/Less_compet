@@ -1,3 +1,7 @@
+package lesson_1;
+
+import lesson_1.Competitor;
+
 public class Robot implements Competitor {
     private String type;
     private String name;

@@ -1,3 +1,8 @@
+package lesson_1;
+
+import lesson_1.Competitor;
+import lesson_1.Obstacles;
+
 public class Treadmill extends Obstacles {
     private int dist;
 
